@@ -1,1 +1,1 @@
-This program works throw API(turbo-3.5). A user can ask any question by running the program. First of all a user type his question in terminal. Then program activate and search similar think by using Chatgpt.
+This program works through API(turbo-3.5). A user can ask any question by running the program. First of all a user types his question in the terminal. Then the program activates and searches for similar things by using Chatgpt. At last show output in the terminal.
